@@ -32,7 +32,7 @@ let userObj: {
   age: number;
   IsAdmin: boolean;
   phone?: number;
-}; //to call uerObj you have to include every property except the ones with condition(?)
+}; //to call userObj you have to include every property except the ones with condition(?)
 
 let testAny; //this can be any type by default
 
